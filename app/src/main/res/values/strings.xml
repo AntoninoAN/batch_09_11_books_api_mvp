@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BooksApiTest</string>
+    <string name="til_hint_search_for_favorite_books">Search for Favorite books!</string>
+    <string name="rb_text_all">ALL</string>
+    <string name="rb_text_books">BOOKS</string>
+    <string name="rb_text_magazines">MAGAZINES</string>
+    <string-array name="filter_options">
+        <item>Ebooks</item>
+        <item>Partial</item>
+        <item>Full</item>
+    </string-array>
+</resources>
